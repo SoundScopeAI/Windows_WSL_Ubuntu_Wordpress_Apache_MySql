@@ -1,6 +1,6 @@
 # Windows-WSL-Ubuntu-LAMP-Wordpress
 
-Download stack file to windows download folder.
+Download [stack](https://github.com/Techintheclouds/Windows-WSL-Ubuntu-LAMP-Wordpress/blob/master/stack) file to windows download folder.
 
 #### Open powershell from powerusers menu.
 
