@@ -1,4 +1,5 @@
 # Windows-WSL-Ubuntu-LAMP-Wordpress
+Instructions to Enable Windows Subsystem Linux(WSL), Download and Install Ubuntu Microsoft Store App into WSL, and a script that sets up Apache, MySQL, PHP, and WordPress.
 
 Download [stack](https://github.com/Techintheclouds/Windows-WSL-Ubuntu-LAMP-Wordpress/blob/master/stack) file to windows download folder.
 
