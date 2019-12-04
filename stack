@@ -92,6 +92,8 @@ apt install curl git wget -y
 apt install nodejs npm -y
 ### Install common builders
 apt install gcc g++ make build-essential -y
+### Install requirements for buildserver.sh
+apt install dos2unix p7zip-full cpio gzip genisoimage whois pwgen wget fakeroot isolinux xorriso -y
 ### Install Gulp and browser sync
 npm install --global gulp-cli
 npm install --global browser-sync
