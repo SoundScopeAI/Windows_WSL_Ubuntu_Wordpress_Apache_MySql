@@ -25,6 +25,6 @@ Run `Add-AppxPackage .\ubuntu.appx`
 
 Run `ubuntu`
 
-Run `cd /mnt/c/users/[yourname]/downloads/` <-- change to yourname!!
+Run `cd /mnt/c/users/[yourname]/downloads/` <-- change [yourname] to your name!!
 
 Run `sudo bash stack.sh`
